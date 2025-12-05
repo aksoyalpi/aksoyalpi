@@ -1,3 +1,9 @@
+![GitHub Followers](https://img.shields.io/github/followers/YOURNAME?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/YOURNAME?style=social)
+![Flutter](https://img.shields.io/badge/Flutter-blue)
+![Python](https://img.shields.io/badge/Python-yellow)
+![FastAPI](https://img.shields.io/badge/FastAPI-green)
+
 # Hi, I'm Alperen 👋
 
 I'm a software developer and researcher focusing on:
@@ -25,7 +31,5 @@ I'm a software developer and researcher focusing on:
 - LinkedIn: www.linkedin.com/in/alperen-aksoy-9364aa2a8
 - Email: kontakt@alperenaksoy.de
 
-![Flutter](https://img.shields.io/badge/Flutter-blue)
-![Python](https://img.shields.io/badge/Python-yellow)
-![FastAPI](https://img.shields.io/badge/FastAPI-green)
+
 
