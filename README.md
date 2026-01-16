@@ -28,7 +28,7 @@ I'm a software developer and researcher focusing on:
 
 ## 📫 Contact
 - Website: www.alperenaksoy.de
-- LinkedIn: www.linkedin.com/in/alperen-aksoy-9364aa2a8
+- LinkedIn: www.linkedin.com/in/alperen-aksoy
 - Email: kontakt@alperenaksoy.de
 
 
